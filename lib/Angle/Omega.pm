@@ -1,6 +1,4 @@
 package Angle::Omega;
-
-use 5.006;
 use strict;
 use warnings;
 require Exporter;
